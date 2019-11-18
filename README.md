@@ -14,3 +14,4 @@ Usage of the Tool-
 
 *NOTE- Recon619 automates the usage of tools that are written in GoLang, So configure GOlang by providing a proper path in your Bash Profile.
 
+
