@@ -4,6 +4,7 @@ Recon619 is a recon tool that allows for the discovery of subdomains and automat
 Using all the tools individually will take a lot of time. So, let’s remove all the hustle and try to automate our subdomain enumeration process.
 
 Usage of the Tool-
+
 1)Open Terminal and write " git clone https://github.com/shauryasharma-05/recon619"
 2)Allow Permission "chmod +x recon619"
 3)Run "./recon619.sh"
