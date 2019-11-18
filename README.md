@@ -6,7 +6,7 @@ Using all the tools individually will take a lot of time. So, let’s remove all
 
 Usage of the Tool-
 
-1)Open Terminal and write " git clone https://github.com/shauryasharma-05/recon619"
+1)Open Terminal and write " git clone https://github.com/shauryasharma-05/recon619.git"
 
 2)Allow Permission "chmod +x recon619"
 
