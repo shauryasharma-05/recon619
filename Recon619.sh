@@ -11,6 +11,8 @@ echo Searching for domains!
 #installing assetfinder
 go get github.com/tomnomnom/assetfinder
 
+#installing httprobe
+go get -u github.com/tomnomnom/httprobe
 #running_assetfinder
 assetfinder -subs-only $1 > domains.txt
 echo
